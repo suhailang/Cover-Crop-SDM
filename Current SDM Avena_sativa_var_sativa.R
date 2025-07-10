@@ -33,6 +33,7 @@ cols <- viridis(100)
 sp <- "Avena_sativa_var_sativa"
 f <- file.path(input_pts_dir, paste0(sp, ".csv"))
 
+# Output file updates
 cat("=== Processing", sp, "===\n")
 start_time <- Sys.time()
 
@@ -162,5 +163,6 @@ plot(ev, 'ROC',
      cex.main=1.2)
 dev.off()
 
+# Time report
 end_time <- Sys.time()
 cat("Time taken for", sp, ":", round(difftime(end_time, start_time, units="mins"), 2), "minutes\n\n")
