@@ -1,7 +1,8 @@
 # Cover-Crop-SDM
 Kantar Lab Cover Crop Project Summer 2025
-Current, 2050, 2070 climate data
-Species Distribution Modelling, Suitability Maps, Overlays for 14 common cover crop species
+
+Species Distribution Modelling, Suitability Maps, Overlays for 14 common cover crop species using current, 2050, and 2070, climate data.
+Example given using Avena sativa var. sativa.
 
 Occurrence data were obtained from iNaturalist ( https://www.gbif.org/).
 These occurrence points were used to query the datasets examined in this study which included the WorldClim 2.1 climate data (all 19 bioclim variables for temperature and precipitation).
