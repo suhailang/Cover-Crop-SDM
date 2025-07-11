@@ -1,5 +1,6 @@
 # Cover-Crop-SDM
-Kantar Lab Cover Crop Project Summer 2025
+## Cover Crops in a Changing Climate: Spatial Modeling of Current and Future Suitability
+
 
 Species Distribution Modelling, Suitability Maps, Overlays for 14 common cover crop species using current, 2050, and 2070, climate data.
 
